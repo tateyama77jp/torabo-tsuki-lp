@@ -56,7 +56,7 @@
 &trans  &kp LS(KP_MULTIPLY)  &kp N7  &kp N8      &kp N9   &kp KP_MINUS                          &kp TAB   &kp HOME        &mkp MB3        &kp END          &kp BACKSPACE  &trans
 &trans  &kp SQT              &kp N4  &kp N5      &kp N6   &kp KP_PLUS    &trans         &trans  &kp ESC   &mkp MB1        &kp UP_ARROW    &mkp MB2         &kp DEL        &trans
 &trans  &kp KP_DIVIDE        &kp N1  &kp N2      &kp N3   &kp LS(MINUS)  &trans         &trans  &kp CAPS  &kp LEFT_ARROW  &kp DOWN_ARROW  &kp RIGHT_ARROW  &kp F4         &trans
-&trans  &kp KP_NUMLOCK       &kp N0  &kp KP_DOT  &kp DEL  &kp ENTER      &kp BACKSPACE  &to 2   &to 0     &none           &trans          &trans           &trans         &trans
+&trans  &kp KP_NUMLOCK       &kp N0  &kp KP_DOT  &kp DEL  &kp ENTER      &kp BACKSPACE  &to 0   &trans    &none           &trans          &trans           &trans         &trans
             >;
         };
 
